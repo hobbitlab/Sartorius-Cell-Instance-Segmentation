@@ -1,6 +1,6 @@
 # Sartorius-Cell-Instance-Segmentation Top-2-Percent-Solution
 
-![avatar](https://storage.googleapis.com/kaggle-competitions/kaggle/30201/logos/header.png?t=2021-09-03-15-27-46)
+![bender](readme_files/header.png "RUNOOB")
 
 https://www.kaggle.com/c/sartorius-cell-instance-segmentation
 
